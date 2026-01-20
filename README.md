@@ -22,17 +22,13 @@ This software provides a backend solution for tracking laptop inventory. It allo
 * GCC Compiler (or any standard C compiler)
 
 ### Installation
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/laptop-inventory-system.git](https://github.com/YOUR_USERNAME/laptop-inventory-system.git)
-    ```
 
-2.  **Compile the source code**
+1.  **Compile the source code**
     ```bash
     gcc laptop.c -o inventory_manager
     ```
 
-3.  **Run the application**
+2.  **Run the application**
     ```bash
     ./inventory_manager
     ```
